@@ -21,7 +21,7 @@
     The CSS file contains the styling of the pages.
     The JavaScript file contains the logic of the application and interacts with TheMealDB API to search and display meals.
 # Contributors
-    Vivek Kumar
+    arimardan
 # Video Explanation
     Link to video explanation:- https://youtu.be/dtNYzA1SiKw
 
