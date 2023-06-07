@@ -26,4 +26,4 @@
     Link to video explanation:- https://youtu.be/dtNYzA1SiKw
 
 # Hosted Code
-    The code is hosted on GitHub at [https://github.com/your-username/meal-app.](https://apni-coding.github.io/Meals-App/)
+    The code is hosted on GitHub at [https://github.com/your-username/meal-app.](https://github.com/Arimardan108/MEAL_APP)
